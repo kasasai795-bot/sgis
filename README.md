@@ -62,28 +62,6 @@ All project documents are in the `doc` folder:
 * Backend should be running before using frontend
 
 
-
-
-Steps to Run Locally
-
-Clone the repository
-
-git clone <your-repo-link>
-
-Navigate to project folder
-
-cd project-folder-name
-
-Install dependencies
-
-npm install
-
-Run the project
-
-npm start
-
-or
-
 npm run dev
 
 Open in browser
